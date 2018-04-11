@@ -1,0 +1,9 @@
+﻿  MyGame.cpp
+c:\users\28029\desktop\project documents\qg侠\mygame\mygame.cpp(144): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\28029\desktop\project documents\qg侠\mygame\mygame.cpp(147): warning C4238: 使用了非标准扩展: 类 rvalue 用作了 lvalue
+c:\users\28029\desktop\project documents\qg侠\mygame\mygame.cpp(148): warning C4238: 使用了非标准扩展: 类 rvalue 用作了 lvalue
+c:\users\28029\desktop\project documents\qg侠\mygame\mygame.cpp(162): warning C4101: “rec”: 未引用的局部变量
+c:\users\28029\desktop\project documents\qg侠\mygame\mygame.cpp(262): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\28029\desktop\project documents\qg侠\mygame\mygame.cpp(263): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\28029\desktop\project documents\qg侠\mygame\mygame.cpp(272): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  MyGame_2010.vcxproj -> C:\Users\28029\Desktop\Project Documents\QG侠\MyGame\Debug\MyGame.exe
